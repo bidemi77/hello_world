@@ -1,0 +1,13 @@
+[user]
+	name = Sulaimon Nurudeen
+	email = zulaimon.nurudeen@gmail.com
+[core]
+    editor = nano
+    whitespace = off
+	excludesfile = /home/ubuntu/gitignore_global
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = simple
